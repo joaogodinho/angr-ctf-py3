@@ -1,2 +1,3 @@
-# angr-ctf-py3
-angr CTF from PSU in py3
+# angr CTF from PSU
+
+Copy of the challenges as seen in https://angr.oregonctf.org/
